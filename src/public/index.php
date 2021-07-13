@@ -1,6 +1,5 @@
 <?php
   require_once '../../vendor/autoload.php';  
-  <?php
 
   //############### cors do php para api ser acessivel ###############
   header("Access-Control-Allow-Origin:*");
